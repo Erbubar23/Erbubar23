@@ -9,15 +9,15 @@ const path = require('path');
 const USERNAME = 'Erbubar23';
 const README_PATH = path.join(__dirname, '..', 'README.md');
 
-// Language color dots
+// Synth & New Wave language badges
 const LANG_ICONS = {
-  'C++': '🔷',
-  'C': '◽',
+  'C++': '🎛️',
+  'C': '⚡',
   'Python': '🐍',
-  'JavaScript': '🟨',
+  'JavaScript': '✨',
   'TypeScript': '🔷',
   'HTML': '🌐',
-  'Shell': '🐚',
+  'Shell': '📟',
   'Rust': '🦀',
   'Assembly': '⚙️'
 };
