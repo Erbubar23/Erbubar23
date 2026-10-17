@@ -40,7 +40,8 @@
 
 | Repositorio | Descripción | Lenguaje | 🌟 Stars | 🔄 Actividad |
 |:---|:---|:---:|:---:|:---:|
-| [**bubba-machine**](https://github.com/Erbubar23/bubba-machine) | Bubba Machine: firmware libre (GPL-3.0) de groovebox de 6 pistas para el M-VAVE FM-1 | ⚡ C | 9 | 16 oct 2026 |
+| [**bubba-dj-pro**](https://github.com/Erbubar23/bubba-dj-pro) | Software DJ ligero en Rust para Windows con soporte nativo para Pioneer DDJ-FLX4: rejilla neuronal (Beat This!), cue points sugeridos y sync estilo rekordbox / Serato | 🦀 Rust | 0 | 17 oct 2026 |
+| [**bubba-machine**](https://github.com/Erbubar23/bubba-machine) | Bubba Machine: firmware libre (GPL-3.0) de groovebox de 6 pistas para el M-VAVE FM-1 | ⚡ C | 9 | 17 oct 2026 |
 | [**bubba-web**](https://github.com/Erbubar23/bubba-web) | Portafolio web dinámico conectado en tiempo real a la API de GitHub de Erbubar23 | 🌐 HTML | 0 | 16 oct 2026 |
 | [**UltraCamStudio**](https://github.com/Erbubar23/UltraCamStudio) | Estudio de video y audio para Windows: cámaras de PC y móviles, mezclador VST3, grabación multipista y cámara virtual propia. | 🐍 Python | 0 | 04 oct 2026 |
 | [**scdl**](https://github.com/Erbubar23/scdl) `(fork)` | Soundcloud Music Downloader | 📦 General | 0 | 10 jun 2026 |
